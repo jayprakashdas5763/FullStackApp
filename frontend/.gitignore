@@ -1,6 +1,8 @@
 # dependencies
 node_modules/
+package-lock.json
 .env
+.DS_Store
 
 # production build
 build/
