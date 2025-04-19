@@ -1,1 +1,26 @@
 .vercel
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+dist/
+*.tgz
+
+# npm package-lock files (sometimes can be ignored if you don't want version locking)
+package-lock.json
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables (if you have any, for example, .env files)
+.env
